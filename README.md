@@ -19,13 +19,13 @@ Vous êtes chercheur(e) dans un laboratoire de recherche et vous étudiez l'inci
 
 Votre objectif est de visualiser cette base de données à l'aide de représentations graphiques pour identifier l'incidence, la prévalence et les différences par sexe.  Pour ce faire, vous serez amenés à utiliser les librairies Python suivantes, qui sont fréquemment utilisées pour l'analyse et la visualisation de données : 
 
-- [Pandas]: est une librairie Python qui permet de manipuler et analyser des données tabulaires grâce aux DataFrames, facilitant le nettoyage, le tri et le regroupement des données.
+- Pandas: est une librairie Python qui permet de manipuler et analyser des données tabulaires grâce aux DataFrames, facilitant le nettoyage, le tri et le regroupement des données.
 
-- [Matplotlib] : est une bibliothèque de base pour créer des graphiques 2D, tels que des courbes, histogrammes, scatter plots ou bar plots, offrant une grande flexibilité pour personnaliser l’apparence des figures.
+- Matplotlib : est une bibliothèque de base pour créer des graphiques 2D, tels que des courbes, histogrammes, scatter plots ou bar plots, offrant une grande flexibilité pour personnaliser l’apparence des figures.
 
-- [Seaborn] : est une extension de Matplotlib qui permet de générer facilement des graphiques statistiques esthétiques comme des violin plots ou des boxplots, ce qui est très pratique pour explorer les relations entre variables et les distributions.  
+- Seaborn : est une extension de Matplotlib qui permet de générer facilement des graphiques statistiques esthétiques comme des violin plots ou des boxplots, ce qui est très pratique pour explorer les relations entre variables et les distributions.  
 
-- [Plotly] : est une librairie qui permet de permet de créer des graphiques interactifs, où l’utilisateur peut zoomer, survoler et filtrer les données, idéal pour des visualisations dynamiques.
+- Plotly : est une librairie qui permet de permet de créer des graphiques interactifs, où l’utilisateur peut zoomer, survoler et filtrer les données, idéal pour des visualisations dynamiques.
 
 Pour ce TP, nous allons travailler avec un Jupyter Notebook (`.ipynb`). 
 
@@ -71,44 +71,44 @@ La section suivante fournit des exemples de résultats attendus pour chaque exer
 #### Partie 1 : Préparation des données 
 Pour la partie 1, votre DataFrame initial devrait ressembler à ceci : 
 
-![image](imgs/example1.png)
+![image](images/example1.png)
 
 Attention : l'affichage ne devrait PAS ressembler à ceci : 
 
-![image](imgs/example2.png)
+![image](images/example2.png)
 
 Après la supression des colonnes, votre DataFrame devrait ressembler à ceci :
 
-![image](imgs/example3.png)
+![image](images/example3.png)
 
 #### Partie 2 : Calcul des statistiques
 Voici ce qui est attendu de l'afichage du nombre de cas d'AVC par catégorie: 
 
-![image](imgs/example4.png)
+![image](images/example4.png)
 
 
 Voici un exemple de bonne solution pour l'utilisation de la fonction stats_par_groupe : 
 
-![image](imgs/example5.png)
+![image](images/example5.png)
 
 Voici un exemple de bonne solution pour l'utilisation de la fonction proportion_hypertension_par_type_avc: 
 
-![image](imgs/example6.png)
+![image](images/example6.png)
 
 
 #### Partie 3 : Visualisation des données
 Voici un exemple de bonne solution pour le violin plot :
 
-![image](imgs/example7.png)
+![image](images/example7.png)
 
 Voici un exemple de bonne solution pour le nuage de point interactif :
 
-![image](imgs/example8.png)
+![image](images/example8.png)
 
 #### Partie bonus : Affichage d'un graphique en barre superposé.
 Voici le résultat attendu pour la question bonus : 
 
-![image](imgs/example9.png)
+![image](images/example9.png)
 
 ## Barème de correction
 
