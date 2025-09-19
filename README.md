@@ -71,44 +71,44 @@ La section suivante fournit des exemples de résultats attendus pour chaque exer
 #### Partie 1 : Préparation des données 
 Pour la partie 1, votre DataFrame initial devrait ressembler à ceci : 
 
-![image](images/example1.png)
+![image](images/exemple1.png)
 
 Attention : l'affichage ne devrait PAS ressembler à ceci : 
 
-![image](images/example2.png)
+![image](images/exemple2.png)
 
 Après la supression des colonnes, votre DataFrame devrait ressembler à ceci :
 
-![image](images/example3.png)
+![image](images/exemple3.png)
 
 #### Partie 2 : Calcul des statistiques
 Voici ce qui est attendu de l'afichage du nombre de cas d'AVC par catégorie: 
 
-![image](images/example4.png)
+![image](images/exemple4.png)
 
 
 Voici un exemple de bonne solution pour l'utilisation de la fonction stats_par_groupe : 
 
-![image](images/example5.png)
+![image](images/exemple5.png)
 
 Voici un exemple de bonne solution pour l'utilisation de la fonction proportion_hypertension_par_type_avc: 
 
-![image](images/example6.png)
+![image](images/exemple6.png)
 
 
 #### Partie 3 : Visualisation des données
 Voici un exemple de bonne solution pour le violin plot :
 
-![image](images/example7.png)
+![image](images/exemple7.png)
 
 Voici un exemple de bonne solution pour le nuage de point interactif :
 
-![image](images/example8.png)
+![image](images/exemple8.png)
 
 #### Partie bonus : Affichage d'un graphique en barre superposé.
 Voici le résultat attendu pour la question bonus : 
 
-![image](images/example9.png)
+![image](images/exemple9.png)
 
 ## Barème de correction
 
