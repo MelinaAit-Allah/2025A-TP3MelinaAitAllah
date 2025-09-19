@@ -58,12 +58,15 @@ Avant de débuter ce TP, vous devez installer jupyter ainsi que l'extension de J
 - Recherchez Jupyter.
 - Installez l'extension Jupyter développée par Microsoft.
 
-Une fois jupyter et l'extension Jupyter Notebook installés, vous pouvez maintenant ouvrir le Jupyter Notebook intitulé `TP3.ipynb` et suivre les instructions pour réaliser le TP. 
+Elle devrait ressembler à ceci : 
+![image](images/jupyter.png)
+
+Une fois jupyter et l'extension Jupyter Notebook installés, vous pouvez maintenant cloner ce répertoire et ouvrir le Jupyter Notebook intitulé `TP3.ipynb` et suivre les instructions pour réaliser le TP. 
 
 Vous allez également devoir installer les 4 librairies mentionnées ci-haut, soit Pandas, Matplotlib, Seaborn et Plotly. Les instructions d'installation se retrouvent dans le Jupyter Notebook `TP3.ipynb`. 
 
 ## Instructions pour le TP
-Les étapes détaillées et les instructions pour réaliser ce TP sont disponibles dans le Jupyter Notebook intitulé "TP3.ipynb".
+Les étapes détaillées et les instructions pour réaliser ce TP sont disponibles dans le Jupyter Notebook intitulé `TP3.ipynb`.
 La section suivante fournit des exemples de résultats attendus pour chaque exercice, afin de vous aider à visualiser à quoi devraient ressembler vos réponses.
 
 ### Résultats attendus pour les exercices du TP
