@@ -108,10 +108,6 @@ Voici un exemple de bonne solution pour le nuage de point interactif :
 
 ![image](images/exemple8.png)
 
-#### Partie bonus : Affichage d'un graphique en barre superposé.
-Voici le résultat attendu pour la question bonus : 
-
-![image](images/exemple9.png)
 
 ## Barème de correction
 
