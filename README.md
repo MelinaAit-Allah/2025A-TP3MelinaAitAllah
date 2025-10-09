@@ -66,7 +66,7 @@ Attention, la dernière version de l'extension Jupyter semble poser problème. A
 Regardez l'image ci-dessous pour voir comment télécharger une version précédente. 
 ![image](images/Exemple_jupyter_2.png)
 
-Une fois le téléchargement fait, cliquez sur "Restart extension" et vous ppuvez repartir sur votre fichier `TP3.ipynb`, vous serez alors capable de choisir un environnement en cliquant sur "Select Kernel" en haut à droite de votre écran. 
+Une fois le téléchargement fait, cliquez sur "Restart extension" et vous pouvez repartir sur votre fichier `TP3.ipynb`, vous serez alors capable de choisir un environnement en cliquant sur "Select Kernel" en haut à droite de votre écran. 
 
 Une fois jupyter et l'extension Jupyter Notebook installés, vous pouvez maintenant cloner ce répertoire et ouvrir le Jupyter Notebook intitulé `TP3.ipynb` et suivre les instructions pour réaliser le TP. 
 
